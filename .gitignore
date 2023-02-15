@@ -1,0 +1,5 @@
+#Directoried
+.vs/
+bin/
+bin-int/
+*.user
